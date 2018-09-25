@@ -1,0 +1,23 @@
+# YAML 1.2
+---
+authors: 
+  -
+    affiliation: "Department of Radiation Oncology (MAASTRO), GROW, Maastricht University"
+    family-names: "van Soest"
+    given-names: Johan
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Weel
+    given-names: Berend
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: "de vos"
+    given-names: Martine
+cff-version: "1.0.3"
+date-released: 2018-09-25
+license: "Apache-2.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/NLeSC/DataFAIRifier"
+title: "NLeSC_DataFAIRifier"
+version: "0.1"
+...

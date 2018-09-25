@@ -1,0 +1,20 @@
+{
+    "creators": [
+        {
+            "affiliation": "Department of Radiation Oncology (MAASTRO), GROW, Maastricht University",
+            "name": "van Soest, Johan"
+        },
+        {
+            "affiliation": "Netherlands eScience Center",
+            "name": "Weel, Berend"
+        },
+        {
+            "affiliation": "Netherlands eScience Center",
+            "name": "de vos, Martine"
+        }
+    ],
+    "license": {
+        "id": "Apache-2.0"
+    },
+    "title": "NLeSC_DataFAIRifier"
+}
