@@ -1,3 +1,6 @@
+**** From February 2019 onwards, this repository is further maintained and updated here: https://github.com/maastroclinic/DataFAIRifier ****
+---
+
 # DataFAIRifier
 The DataFAIRifier is a system that supports the creation and validation of mappings of relational data to ontologies. The system is packaged as a set of Docker images. The frontend of the system is implemented as a set of Jupyter Notebooks.
 
