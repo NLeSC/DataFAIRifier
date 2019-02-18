@@ -35,5 +35,8 @@ docker-compose up --build
     make sure you save the mapping before you run the next cells  
   * **termMapping.ipynb** to create a mapping of the table terminology, i.e. values
 
+## References
+M. de Vos, B. Weel, A. M. Mendrik, A. Dekker and J. Van Soest, "Fast and Easy Mapping of Relational Data to RDF for Rapid Learning Health Care," 2018 IEEE 14th International Conference on e-Science (e-Science), Amsterdam, 2018, pp. 382-383. [doi: 10.1109/eScience.2018.00110]
+
 ## License
 Source code and data of DataFAIRifier is licensed under the Apache License, version 2.0.
